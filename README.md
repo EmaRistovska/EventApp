@@ -88,8 +88,8 @@ Backend системот користи Spring Scheduler кој на одред�
 </p>
 
 <p align="center">
-<img src="docs/images/logo.png" width="250"/>
-<img src="docs/images/welcome_screen.png" width="250"/>
+<img src="doc/images/logo.png" width="250"/>
+<img src="doc/images/welcome_screen.png" width="250"/>
 </p>
 
 ---
@@ -102,8 +102,8 @@ Backend системот користи Spring Scheduler кој на одред�
 </p>
 
 <p align="center">
-<img src="docs/images/login_screen.png" width="250"/>
-<img src="docs/images/register_screen.png" width="250"/>
+<img src="doc/images/login_screen.png" width="250"/>
+<img src="doc/images/register_screen.png" width="250"/>
 </p>
 
 ---
@@ -117,9 +117,9 @@ Backend системот користи Spring Scheduler кој на одред�
 </p>
 
 <p align="center">
-<img src="docs/images/categories_screen.png" width="250"/>
-<img src="docs/images/favorites_screen.png" width="250"/>
-<img src="docs/images/profile_screen.png" width="250"/>
+<img src="doc/images/categories_screen.png" width="250"/>
+<img src="doc/images/favorites_screen.png" width="250"/>
+<img src="doc/images/profile_screen.png" width="250"/>
 </p>
 
 ---
@@ -132,9 +132,9 @@ Backend системот користи Spring Scheduler кој на одред�
 </p>
 
 <p align="center">
-<img src="docs/images/event_list_screen.png" width="250"/>
-<img src="docs/images/details_screen.png" width="250"/>
-<img src="docs/images/details_screen1.png" width="250"/>
+<img src="doc/images/event_list_screen.png" width="250"/>
+<img src="doc/images/details_screen.png" width="250"/>
+<img src="doc/images/details_screen1.png" width="250"/>
 </p>
 
 ---
@@ -147,9 +147,9 @@ Backend системот користи Spring Scheduler кој на одред�
 </p>
 
 <p align="center">
-<img src="docs/images/edit_profile.png" width="250"/>
-<img src="docs/images/profile_picture.png" width="250"/>
-<img src="docs/images/aboutApp.png" width="250"/>
+<img src="doc/images/edit_profile.png" width="250"/>
+<img src="doc/images/profile_picture.png" width="250"/>
+<img src="doc/images/aboutApp.png" width="250"/>
 </p>
 
 ---
